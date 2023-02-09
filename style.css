@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#name{
+  text-align:center;
+}
+
+div{
+  background-color: #FF00FF;
+  width:60%;
+  display:flex;
+}
